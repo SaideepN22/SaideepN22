@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saideep Nayak</h1>
 <h3 align="center">I'm a average CS Student who is interested in Development.</h3>
 
-<p align="left"> 
-  <a href="https://twitter.com/saideep_nayak22" target="blank"><img src="https://img.shields.io/twitter/follow/saideep_nayak22?logo=twitter&style=for-the-badge" alt="saideep_nayak22" /></a>
-  <a href="https://linkedin.com/in/saideep nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saideep nayak" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://twitter.com/saideep_nayak22" target="blank"><img src="https://img.shields.io/twitter/follow/saideep_nayak22?logo=twitter&style=for-the-badge" alt="saideep_nayak22" /></a></p>
 
 - 🌱 I’m currently learning **Frontend development, Data Structures, and Java.**
 
